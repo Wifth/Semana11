@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 int[] num = { 4, 8, 10, 25 };
 
 Console.WriteLine("Lista original: ");
