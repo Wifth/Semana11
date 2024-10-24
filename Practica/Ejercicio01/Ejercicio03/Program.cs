@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 using System.Security.Cryptography;
 
 string[] nom = { "jose", "oscar", "carmen", "alexa" };
