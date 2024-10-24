@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 string[] edificio1 = new string[5];
 for (int x = 0; x < edificio1.Length; x++)
 {
-    Console.WriteLine($"Ingrese nombre {x + 1}: ");
+    Console.Write($"Ingrese nombre {x + 1}: ");
     edificio1[x] = Console.ReadLine();
 }
 Console.Clear();
